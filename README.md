@@ -3,7 +3,7 @@
 
 **Elektronika MS0585 and DEC PRO ID ROM Generator and Checker**
 
-A cross-platform utility for generating and analyzing identification ROM files for Soviet PDP-11 family computers (Elektronika MS0585, DEC PRO, Xhomer emulator, etc).
+Utility for generating and analyzing ID ROM files for DEC PRO and it's soviet clone Elektronika 85.
 
 ---
 
