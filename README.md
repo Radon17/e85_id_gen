@@ -13,7 +13,7 @@ Utility for generating and analyzing ID ROM files for DEC PRO and it's soviet cl
 - Generates ROM files with user-defined serial numbers (1–12 digits, leading zeros kept)
 - Supports plain and Xhomer emulator (interleaved) formats
 - Triplicates core data block, appends special 8-byte footer
-- 16-bit checksum (hardware-compatible algorithm)
+- checksum (hardware-compatible algorithm)
 - Checks/analyzes ROM files, autodetects format, validates content
 - Checks format's signature footer
 - Friendly for burning into К155РЕ3 chip or using with Xhomer
