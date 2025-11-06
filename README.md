@@ -76,8 +76,8 @@ python e85_id_gen.py -h
 - **Footer:** 8 bytes:  
   - Always `00FF55AAFF00AF50` (also interleaved if Xhomer)
 - **Total file size:**  
-  - Plain: 26 bytes × 3 + 8 = 86 bytes  
-  - Xhomer: 52 bytes × 3 + 16 = 172 bytes
+  - E85: 32 bytes  
+  - Xhomer: 64 bytes
 
 ---
 
