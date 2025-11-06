@@ -134,7 +134,7 @@ File is valid.
 ## Compatibility / Burning
 
 - Use Xhomer-format files directly with the emulator.
-- For real MS0585/DEC hardware, write the plain format image to EEPROM, or burn with your programmer to the К155РЕ3 chip.
+- For real MS0585/DEC hardware, burn with your programmer to the К155РЕ3 chip.
 
 ---
 
